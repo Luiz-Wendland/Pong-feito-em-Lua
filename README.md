@@ -3,4 +3,4 @@ Fiz esse jogo baseado no tutorial de Love2D do [DevJeeper](https://github.com/Je
 
 <br>
 
-![Imagem](https://raw.githubusercontent.com/Luiz-Wendland/Imagens/main/Pong%20feito%20em%20lua/Screenshot_6.png?token=GHSAT0AAAAAABTFDB3X4IWCQOPSVQDJR27CYSJH2UQ)
+![Imagem](https://raw.githubusercontent.com/Luiz-Wendland/Pong-feito-em-Lua/main/Imagens/Screenshot%201.png)
